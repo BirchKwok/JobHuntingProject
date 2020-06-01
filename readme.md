@@ -2,7 +2,7 @@
 
 
 
-## PLEASE KNOW
+## KNOW THIS
 
 *The employment situation of data analysis has become increasingly severe. Therefore, in order to break through the siege, I hope to demonstrate my data analysis ability through this project so as to meet the requirements for employment.*
 
