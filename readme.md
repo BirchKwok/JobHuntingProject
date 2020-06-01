@@ -28,7 +28,7 @@ The main statistical methods used in the project are as follows:
 
 - inferential statistics
 
-- bayesian statistics.
+- bayesian statistics
 
 
 
@@ -99,7 +99,7 @@ This project uses jupyter notebook to display. The programming language is Pytho
 
 - 描述性统计
 - 推断性统计
-- 贝叶斯统计。
+- 贝叶斯统计
 
 分析手段包括：
 
