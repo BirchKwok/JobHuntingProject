@@ -44,7 +44,7 @@ Analysis methods include:
   - polynomial regression
 
 - classification prediction analysis
-  - the SVM
+  - SVM
   - Logistic Regression
   - Random Forest
 
